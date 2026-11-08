@@ -1,0 +1,18 @@
+SESSION 01 - DEVSECOPS NOTES
+
+1. Git vs GitHub:
+Git is a distributed version control system used to track
+changes in files and manage project history.
+GitHub is a cloud-based platform used to host Git repositories
+and support collaboration.
+
+2. The Four Git Storage Areas:
+- Working Directory: Contains the files being modified.
+- Staging Area: Contains changes prepared for the next commit.
+- Local Repository: Stores committed project history.
+- Remote Repository: Hosts the project history on a remote server.
+
+3. Pre-Merge Gates:
+Pre-merge gates are checks performed before changes are merged
+into the main branch. They help identify issues and prevent
+unverified changes from entering the main codebase.
