@@ -1,0 +1,7 @@
+My name is Ibrahim . I am an Informatics student
+with an academic background in computer science and a growing
+interest in computer networks and cybersecurity.
+
+During the Code213 program, I aim to develop practical
+skills in Git version control, network security fundamentals,
+and secure software development practices.
