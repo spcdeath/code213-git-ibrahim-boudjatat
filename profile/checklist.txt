@@ -1,0 +1,10 @@
+SECURE DEVELOPMENT CHECKLIST
+
+1. Never commit passwords, API keys, or sensitive credentials.
+
+2. Review code changes before staging and committing them.
+
+3. Keep software dependencies and development tools updated.
+
+4. Validate inputs and avoid exposing sensitive information
+   in source code, logs, or configuration files.
